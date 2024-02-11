@@ -2,13 +2,17 @@
 
 💎 || $HOKK || $HOKK || $HOKK || 💎
 
-Welcome to Hokkaido Inu 🐾🐕
-''A Community revival for Shiba Inu biggest rival''
+Welcome to Hokkaido Inu 🐾🐕 A Community revival for Shiba Inu biggest rival!
+
 
 Buy on Uniswap: BUY HOKK (https://app.uniswap.org/#/swap?inputCurrency=0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e)
 
+
 DEXTools Chart: DEXTools
  (https://www.dextools.io/app/uniswap/pair-explorer/0x9314941c11d6dee1d7bf93113eb74d4718949f3b)
+
+Birdeye Chart: Birdeye
+ (https://birdeye.so/token/0xC40AF1E4fEcFA05Ce6BAb79DcD8B373d2E436c4E?chain=ethereum)
  
 CoinGecko: CoinGecko
  (https://www.coingecko.com/en/coins/hokkaidu-inu)
