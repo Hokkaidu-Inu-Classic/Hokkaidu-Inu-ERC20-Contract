@@ -3,7 +3,7 @@
 💎 || $HOKK || $HOKK || $HOKK || 💎
 
 Welcome to Hokkaido Inu 🐾🐕
-“The fastest growing dog coin in crypto history!” -Everybody
+''A Community revival for Shiba Inu biggest rival''
 
 Buy on Uniswap: BUY HOKK (https://app.uniswap.org/#/swap?inputCurrency=0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e)
 
@@ -16,9 +16,9 @@ CoinGecko: CoinGecko
 Etherscan: Etherscan
  (https://etherscan.io/token/0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e)
  
-Website: https://hokk.finance/
+Website: https://hokkaidoinu.biz/
 
-Twitter: https://twitter.com/hokkaiduinu
+Twitter: https://twitter.com/HokkaInuEth
 
 Contract: 0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e
 
