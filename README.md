@@ -27,3 +27,11 @@ Twitter: https://twitter.com/HokkaInuEth
 Contract: 0xc40af1e4fecfa05ce6bab79dcd8b373d2e436c4e
 
 LP Burn: 50% burned to Vitalik (PROOF (https://etherscan.io/tx/0x75bfa9f7cf1b17b486c936ef0d172d03667e037986682b36beb7fef07f043b86)), 50% burned to dead address (PROOF (https://etherscan.io/tx/0x7e564274825e0e48cd4dcef21312d56a98471e9b84861c0180489bf54d693137))
+
+
+Whitepaper 
+(https://hokkaidoinu.biz/HOKK_whitepaper.pdf)
+
+
+Techrate Audit Certification
+(https://github.com/TechRate/Smart-Contract-Audits/blob/main/2018-21%20A-M/Hokkaidu%20Inu.pdf)
